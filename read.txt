@@ -4,8 +4,4 @@ I actually was not good.
 Git has a mutable index called stage.
 Git tracks changes.
 Greating a new branch is quick and simple.
-<<<<<<< Updated upstream
 Really ?
-=======
-vv
->>>>>>> Stashed changes
