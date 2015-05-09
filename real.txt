@@ -1,4 +1,8 @@
 I hate you.
+<<<<<<< Updated upstream
 I cried!
 Creating a branch is quick AND simple sd.
 dd
+=======
+I cried!
+>>>>>>> Stashed changes
